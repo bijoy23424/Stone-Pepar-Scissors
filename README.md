@@ -1,1 +1,1 @@
-# This IS Stone Paper Scissors Game using JS
+# This Is Stone Paper Scissors Game using JS
